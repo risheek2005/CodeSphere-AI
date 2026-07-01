@@ -1,32 +1,127 @@
-# React + TypeScript + Vite
+----------------------------------------------------
+               CodeSphere AI
+AI Powered Collaborative Coding Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+⭐⭐⭐⭐⭐
+React • Firebase • TypeScript • Vite • Monaco Editor
 
-Currently, two official plugins are available:
+[ Live Demo ]
+[ Documentation ]
+[ Report Issue ]
+----------------------------------------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hero Screenshot
 
-## React Compiler
+----------------------------------------------------
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Features
 
-## Expanding the Oxlint configuration
+✔ AI Coding Assistant
+✔ Google Authentication
+✔ GitHub Login
+✔ Real-time Dashboard
+✔ Interview Practice
+✔ Whiteboard
+✔ Code Editor
+✔ Analytics
+✔ Community
+✔ Settings
+✔ Dark Theme
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+----------------------------------------------------
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+📷 Screenshots
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Landing Page
+Dashboard
+Editor
+Interview
+Community
+Whiteboard
+
+----------------------------------------------------
+
+🏗 Architecture
+
+(flow diagram)
+
+----------------------------------------------------
+
+🛠 Tech Stack
+
+Frontend
+Backend
+Authentication
+Database
+Hosting
+Editor
+State Management
+
+----------------------------------------------------
+
+⚙ Installation
+
+git clone ...
+
+npm install
+
+npm run dev
+
+----------------------------------------------------
+
+🔐 Environment Variables
+
+VITE_FIREBASE_API_KEY=
+...
+
+----------------------------------------------------
+
+📂 Folder Structure
+
+src/
+components/
+features/
+services/
+stores/
+
+----------------------------------------------------
+
+🚀 Deployment
+
+Netlify
+
+----------------------------------------------------
+
+🗺 Roadmap
+
+✔ Authentication
+
+✔ Dashboard
+
+✔ Editor
+
+✔ AI Assistant
+
+⬜ Realtime Collaboration
+
+⬜ Video Calls
+
+⬜ Docker
+
+⬜ CI/CD
+
+----------------------------------------------------
+
+🤝 Contributing
+
+----------------------------------------------------
+
+👨‍💻 Author
+
+Photo
+LinkedIn
+GitHub
+
+----------------------------------------------------
+
+
