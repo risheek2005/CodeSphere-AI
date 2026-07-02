@@ -21,15 +21,19 @@ CodeSphere AI is a modern collaborative coding platform featuring Firebase Authe
 
 ## 📸 Preview
 
-Create an `assets/` folder containing:
+# 📸 Preview
 
-- banner.png
-- landing.png
-- dashboard.png
-- editor.png
-- interview.png
-- whiteboard.png
-- demo.gif
+| Landing | Dashboard |
+|---------|-----------|
+| ![](assests/landing.png) | ![](assests/dashboard.png) |
+
+| Code Editor | Interview |
+|-------------|-----------|
+| ![](assests/editor.png) | ![](assests/interview.png) |
+
+| AI Help |
+|------------|
+| ![](assests/AI.png) |
 
 ## ✨ Features
 
