@@ -19,8 +19,6 @@
 
 CodeSphere AI is a modern collaborative coding platform featuring Firebase Authentication, AI-powered assistance, Monaco Editor, Firestore integration, analytics, interview practice, and a clean developer experience.
 
-## 📸 Preview
-
 # 📸 Preview
 
 | Landing | Dashboard |
