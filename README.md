@@ -1,127 +1,127 @@
-----------------------------------------------------
-               CodeSphere AI
-AI Powered Collaborative Coding Platform
+# 🚀 CodeSphere AI
 
-⭐⭐⭐⭐⭐
-React • Firebase • TypeScript • Vite • Monaco Editor
+<p align="center">
+<h1 align="center">CodeSphere AI</h1>
+<p align="center"><strong>AI-Powered Collaborative Coding Platform</strong></p>
+</p>
 
-[ Live Demo ]
-[ Documentation ]
-[ Report Issue ]
-----------------------------------------------------
+<p align="center">
 
-Hero Screenshot
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
+![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?logo=firebase)
+![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)
 
-----------------------------------------------------
+</p>
 
-✨ Features
+## 🌟 Overview
 
-✔ AI Coding Assistant
-✔ Google Authentication
-✔ GitHub Login
-✔ Real-time Dashboard
-✔ Interview Practice
-✔ Whiteboard
-✔ Code Editor
-✔ Analytics
-✔ Community
-✔ Settings
-✔ Dark Theme
+CodeSphere AI is a modern collaborative coding platform featuring Firebase Authentication, AI-powered assistance, Monaco Editor, Firestore integration, analytics, interview practice, and a clean developer experience.
 
-----------------------------------------------------
+## 📸 Preview
 
-📷 Screenshots
+Create an `assets/` folder containing:
 
-Landing Page
-Dashboard
-Editor
-Interview
-Community
-Whiteboard
+- banner.png
+- landing.png
+- dashboard.png
+- editor.png
+- interview.png
+- whiteboard.png
+- demo.gif
 
-----------------------------------------------------
+## ✨ Features
 
-🏗 Architecture
+- Firebase Google Authentication
+- AI Coding Assistant
+- Monaco Code Editor
+- Dashboard Analytics
+- Interview Practice
+- Community Module
+- Firestore Database
+- Responsive UI
+- Dark Theme
 
-(flow diagram)
+## 🏗️ Architecture
 
-----------------------------------------------------
+```mermaid
+flowchart LR
+A(User)-->B(Firebase Auth)
+B-->C(React App)
+C-->D(Firestore)
+C-->E(AI Services)
+D-->F(Dashboard)
+E-->G(Editor)
+```
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Frontend
-Backend
-Authentication
-Database
-Hosting
-Editor
-State Management
+| Layer | Technology |
+|------|------------|
+| Frontend | React + TypeScript + Vite |
+| Backend | Firebase |
+| Database | Firestore |
+| Editor | Monaco |
+| Hosting | Vercel |
 
-----------------------------------------------------
+## 📂 Folder Structure
 
-⚙ Installation
-
-git clone ...
-
-npm install
-
-npm run dev
-
-----------------------------------------------------
-
-🔐 Environment Variables
-
-VITE_FIREBASE_API_KEY=
-...
-
-----------------------------------------------------
-
-📂 Folder Structure
-
+```text
 src/
-components/
-features/
-services/
-stores/
+ ├── components
+ ├── features
+ ├── hooks
+ ├── services
+ ├── stores
+ ├── styles
+ └── utils
+```
 
-----------------------------------------------------
+## ⚙️ Installation
 
-🚀 Deployment
+```bash
+git clone https://github.com/risheek2005/CodeSphere-AI.git
+cd CodeSphere-AI
+npm install
+npm run dev
+```
 
-Netlify
+## 🔑 Environment Variables
 
-----------------------------------------------------
+```env
+VITE_FIREBASE_API_KEY=
+VITE_FIREBASE_AUTH_DOMAIN=
+VITE_FIREBASE_PROJECT_ID=
+VITE_FIREBASE_STORAGE_BUCKET=
+VITE_FIREBASE_MESSAGING_SENDER_ID=
+VITE_FIREBASE_APP_ID=
+```
 
-🗺 Roadmap
+## 🚀 Deployment
 
-✔ Authentication
+Deploy on Vercel and configure the above environment variables.
 
-✔ Dashboard
+## 🗺️ Roadmap
 
-✔ Editor
+- ✅ Authentication
+- ✅ Dashboard
+- ✅ Editor
+- ✅ AI Assistant
+- ⏳ Realtime Collaboration
+- ⏳ Video Calling
+- ⏳ Docker
 
-✔ AI Assistant
+## 🤝 Contributing
 
-⬜ Realtime Collaboration
+Pull requests are welcome.
 
-⬜ Video Calls
+## 👨‍💻 Author
 
-⬜ Docker
+**Risheek Agarwal**
 
-⬜ CI/CD
+GitHub: https://github.com/risheek2005
 
-----------------------------------------------------
+LinkedIn: https://www.linkedin.com/in/risheek-agarwal-161b83338
 
-🤝 Contributing
-
-----------------------------------------------------
-
-👨‍💻 Author
-
-Photo
-LinkedIn
-GitHub
-
-----------------------------------------------------
-
-
+## ⭐ Star the repository if you like it!
